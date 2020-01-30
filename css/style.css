@@ -12,10 +12,12 @@ body{
 
 main{
     border: 2px solid white;
+    background-color: teal;
 }
 
 footer {
     border: 2px solid white;
+    background-color: slateblue;
 }
 
 h1{
