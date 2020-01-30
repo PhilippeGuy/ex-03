@@ -1,10 +1,10 @@
 header{
-
+    border: 2px white;
 }
 
 body{
     font-family: arial;
-    background-color: green;
+    background-color: rgb(48, 170, 48);
 }
 
 h1{
